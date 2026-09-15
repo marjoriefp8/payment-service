@@ -727,14 +727,4 @@ License
 This project is intended for educational and portfolio purposes.
 
 
-### Una recomendación importante antes de publicarlo
 
-Yo **sí lo subiría a GitHub**, pero haría una última revisión antes de hacer el repositorio público:
-
-```text
-payment-service/
-├── README.md
-├── pom.xml
-├── docker-compose.yml
-├── .gitignore
-└── src/
